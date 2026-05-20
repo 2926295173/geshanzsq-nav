@@ -38,7 +38,7 @@
         <easy.captcha.version>1.6.2</easy.captcha.version>
         <commons.pool2.version>2.11.1</commons.pool2.version>
         <bitwalker.version>1.21</bitwalker.version>
-        <hutool.all.version>5.8.5</hutool.all.version>
+        <hutool.all.version>5.8.21</hutool.all.version>
         <commons.io.version>2.11.0</commons.io.version>
         <flexmark.version>0.62.2</flexmark.version>
         <just.auth.version>1.16.5</just.auth.version>
